@@ -15,11 +15,11 @@
 
 ## System Design
 
-![13](https://user-images.githubusercontent.com/81899557/205957788-33056e10-1f7f-4357-a282-933090de3c11.JPG)
+![SYSTEM](https://user-images.githubusercontent.com/81899557/205962689-f2f9aecf-badd-44c7-ae97-f56b14c1c5da.JPG)
 
 - ### System Requirements
-  - 공모전 데이터 크롤링 -> puppeteer API
-  - OOO
+  - 공모전 데이터 크롤링 - puppeteer API
+  - 서버 사이드 렌더링
 
 ## Case Study
 
@@ -32,4 +32,5 @@
 
 ## Project Outcome
 
-- ### 20XX 년 OO학술대회
+- ### 2022 학년도 제11회 정보기술대학 작품전시회
+<img width="341" alt="EX_1" src="https://user-images.githubusercontent.com/81899557/205963776-84fc4ee0-6036-4802-a3e2-123ebb5ecdf9.png">
