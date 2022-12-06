@@ -25,6 +25,7 @@
   - #### 서버
     ![AWS](https://user-images.githubusercontent.com/81899557/205976692-4b469e50-9bda-49ce-b863-597bb84f11e4.png)
   - #### 공모전 데이터 크롤링 - puppeteer API
+    ![crawl](https://user-images.githubusercontent.com/81899557/205991508-fa85eb8a-2c62-4262-8929-61ffeabeb582.JPG)
 
 ## Case Study
 
@@ -32,8 +33,11 @@
 
 ## Conclusion
 
-- ### OOO
-- ### OOO
+- ### 결과
+  브라우저 주소창에 www.gongmosns.com를 통해 쉽게 접근가능하며 기본적인 SNS 기능 팔로우, 팔로워, 리트윗, 좋아요, 해시태그 기능 사용 가능
+  크롤링된 공모전 게시글을 통해 유저들이 쉽게 팀원 또는 팀을 모집할 수 있고 다양한 공모전 정보를 공유
+- ### 완성하지 못한 점
+  크롤링된 데이터를 자동으로 업데이트하여 게시글 작성까지가 목표였으나 기술적 문제로 완성하지 못함
 
 ## Project Outcome
 
