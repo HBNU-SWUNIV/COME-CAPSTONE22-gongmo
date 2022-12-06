@@ -18,13 +18,13 @@
 ![SYSTEM](https://user-images.githubusercontent.com/81899557/205962689-f2f9aecf-badd-44c7-ae97-f56b14c1c5da.JPG)
 
 - ### System Requirements
-  - # 프론트엔드/백엔드
+  - #### 프론트엔드/백엔드
     ![react](https://user-images.githubusercontent.com/81899557/205976102-11ecb990-11a3-4aeb-bca7-4d01075b19f8.png)![node](https://user-images.githubusercontent.com/81899557/205976518-cba864b8-83cc-4a07-a29c-d2cc2b138368.png)
-  - # DB
+  - #### DB
     ![mysql](https://user-images.githubusercontent.com/81899557/205976643-576226c7-d53d-414e-bada-1e60a6804840.png)
-  - # 서버
+  - #### 서버
     ![AWS](https://user-images.githubusercontent.com/81899557/205976692-4b469e50-9bda-49ce-b863-597bb84f11e4.png)
-  - # 공모전 데이터 크롤링 - puppeteer API
+  - #### 공모전 데이터 크롤링 - puppeteer API
 
 ## Case Study
 
