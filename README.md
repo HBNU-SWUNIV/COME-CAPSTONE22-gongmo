@@ -41,7 +41,9 @@
 
   - #### 공모전 데이터 크롤링 - puppeteer API
 
-<img width="505" alt="cr" src="https://user-images.githubusercontent.com/81899557/206161011-1d577a38-d878-45a9-a38a-77ec1e1d6a76.png">
+  <img width="505" alt="cr" src="https://user-images.githubusercontent.com/81899557/206161011-1d577a38-d878-45a9-a38a-77ec1e1d6a76.png">
+
+  ![crawl](https://user-images.githubusercontent.com/81899557/206171348-f76ea888-eee9-406d-b81f-42a320f8a91c.JPG)
 
 ## Conclusion
 
@@ -54,7 +56,7 @@
   - 크롤링 된 공모전 게시글을 통해 유저들이 쉽게 팀원 또는 팀을 모집할 수 있고 다양한 공모전 정보를 공유
 
 - ### 완성하지 못한 점
-  - 크롤링 된 데이터를 자동으로 업데이트하여 게시글 작성까지가 목표였으나 기술적 문제로 완성하지 못함
+  - 크롤링 된 데이터를 자동으로 업데이트하여 게시글 작성까지 목표였으나 기술적 문제로 완성하지 못함
 
 ## Project Outcome
 
