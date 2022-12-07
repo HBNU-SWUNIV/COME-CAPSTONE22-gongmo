@@ -20,6 +20,7 @@
 - ### System Requirements
 
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
@@ -29,9 +30,7 @@
 
   - #### 공모전 데이터 크롤링 - puppeteer API
 
-## Case Study
-
-- ### Description
+<img width="505" alt="cr" src="https://user-images.githubusercontent.com/81899557/206161011-1d577a38-d878-45a9-a38a-77ec1e1d6a76.png">
 
 ## Conclusion
 
